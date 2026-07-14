@@ -1,0 +1,13 @@
+# Ambientes Virtuais
+venv/
+.venv/
+env/
+
+# Cache e arquivos compilados
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Streamlit e SO
+.streamlit/
+.DS_Store
