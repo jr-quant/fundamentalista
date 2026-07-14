@@ -24,7 +24,7 @@ Este projeto foi desenvolvido para demonstrar a aplicação prática da engenhar
 1. **Clone este repositório:**
    ```bash
    git clone https://github.com/jr-quant/fundamentalista.git
-   cd valuation-dashboard
+   cd fundamentalista
    ```
 
 2. **Crie e ative um ambiente virtual:**
